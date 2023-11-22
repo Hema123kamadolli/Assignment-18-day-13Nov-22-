@@ -24,7 +24,7 @@ namespace MultipleInterface
         public int Charge(int min)
         {
             Battery = min;
-            Battery = Battery / 60;
+            Battery = Battery / 50;
             return Battery;
         }
 

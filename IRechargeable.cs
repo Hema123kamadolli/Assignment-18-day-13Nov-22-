@@ -8,7 +8,7 @@ namespace MultipleInterface
 {
     public interface IRechargeable
     {
-        int Charge(int min);
+        int Charge(int minutes);
 
     }
 }

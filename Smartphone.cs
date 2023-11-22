@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+ 
 
 namespace MultipleInterface
 {
@@ -28,7 +25,7 @@ namespace MultipleInterface
         public int Charge(int min)
         {
             Battery = min;
-            Battery = Battery / 60;
+            Battery = Battery / 50;
 
             return Battery;
         }
