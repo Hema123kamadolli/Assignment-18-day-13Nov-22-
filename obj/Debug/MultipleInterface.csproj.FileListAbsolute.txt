@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-13\Assignment-18(22-Nov)\MultipleInterface\MultipleInterface\bin\Debug\MultipleInterface.exe.config
+C:\mphasis-B2\Day-13\Assignment-18(22-Nov)\MultipleInterface\MultipleInterface\bin\Debug\MultipleInterface.exe
+C:\mphasis-B2\Day-13\Assignment-18(22-Nov)\MultipleInterface\MultipleInterface\bin\Debug\MultipleInterface.pdb
+C:\mphasis-B2\Day-13\Assignment-18(22-Nov)\MultipleInterface\MultipleInterface\obj\Debug\MultipleInterface.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-13\Assignment-18(22-Nov)\MultipleInterface\MultipleInterface\obj\Debug\MultipleInterface.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-13\Assignment-18(22-Nov)\MultipleInterface\MultipleInterface\obj\Debug\MultipleInterface.exe
+C:\mphasis-B2\Day-13\Assignment-18(22-Nov)\MultipleInterface\MultipleInterface\obj\Debug\MultipleInterface.pdb
